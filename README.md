@@ -4,7 +4,7 @@
 This application cover responsive UI of product list of eccomerce site where 
 data is fetched from server with limit and page parameter
 ## Application Live Demo
-![Demo](https://ecommerce-product-list.vercel.app/)
+[Demo](https://ecommerce-product-list.vercel.app/)
 
 ## How to install
 1. clone this react project by running below command in git terminal:
