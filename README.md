@@ -13,13 +13,10 @@ data is fetched from server with limit and page parameter
 2. after Step 1. goto project directory:
 `cd ecommerce-product-list`
 
-3. create .env file in root folder and add this command:
-`REACT_APP_BASE_URI = "API base url goes here"`
-
-4. install dependencies:
+3. install dependencies:
 `npm install`
 
-5. after installing project dependencies run project:
+4. after installing project dependencies run project:
 `npm start`
 
 After completing all the above steps application will run your project in local machine `localhost:3000`

@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export function axiosDefaults() {
-    axios.defaults.baseURL = process.env.REACT_APP_BASE_URI;
+    axios.defaults.baseURL = 'https://api.punkapi.com/v2';
 }
